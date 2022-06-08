@@ -1,0 +1,223 @@
+{
+  "abstract" : [
+    {
+      "text" : "The default character used to mask strings",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate",
+        "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate\/StringMasker"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate\/StringMasker\/defaultMask"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:22EASwiftLibraryTemplate12StringMaskerC11defaultMaskSSvpZ",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "static"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "keyword",
+        "text" : "let"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "defaultMask"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:SS",
+        "text" : "String"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "EASwiftLibraryTemplate"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Type Property",
+    "symbolKind" : "property",
+    "title" : "defaultMask"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "static"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "let"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "defaultMask"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:SS",
+              "text" : "String"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 2,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/easwiftlibrarytemplate\/stringmasker\/defaultmask"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://EASwiftLibraryTemplate/documentation/EASwiftLibraryTemplate": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "EASwiftLibraryTemplate",
+  "type" : "topic",
+  "url" : "\/documentation\/easwiftlibrarytemplate"
+},
+"doc://EASwiftLibraryTemplate/documentation/EASwiftLibraryTemplate/StringMasker": {
+  "abstract" : [
+    {
+      "text" : "A class with a static function that masks strings",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "StringMasker"
+    }
+  ],
+  "identifier" : "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate\/StringMasker",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "StringMasker"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "StringMasker",
+  "type" : "topic",
+  "url" : "\/documentation\/easwiftlibrarytemplate\/stringmasker"
+},
+"doc://EASwiftLibraryTemplate/documentation/EASwiftLibraryTemplate/StringMasker/defaultMask": {
+  "abstract" : [
+    {
+      "text" : "The default character used to mask strings",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "defaultMask"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/EASwiftLibraryTemplate\/documentation\/EASwiftLibraryTemplate\/StringMasker\/defaultMask",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "defaultMask",
+  "type" : "topic",
+  "url" : "\/documentation\/easwiftlibrarytemplate\/stringmasker\/defaultmask"
+}
+}
+}
